@@ -1,4 +1,4 @@
-# Building a ChatGPT clone in Python with Streamlit, NATS and Bytewax
+# Building a Stateful Chatbot in Python with Streamlit, NATS, GPT3 and Bytewax
 
 - Skill level
     
